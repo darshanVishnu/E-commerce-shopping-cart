@@ -4,7 +4,10 @@ Online shopping portal build using asp .net master page/Single page application 
 This Project has end to end shopping portal development from admin to database backup file has been uploaded
 Unzip it and open it using visual studio 2013 and higher version.
 
-Asp .net master page  webform application for online shopping of laptop .
+Asp .net master page  webform application for online shopping of laptops.
+
+Keep Login Page as startup page in OnlineShoppingPortal project and run in visual studio.
+enjoy and Love coding.......
 .
   
 
